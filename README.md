@@ -2,7 +2,7 @@
 Digidoom is a software that lets you quickly find back a digidot's IP address without any effort. Simply connect your computer via ethernet to the digidot and launch the program. A window will open in your default set browser displaying the digidot's menu.
 
 ## Setup
-Download the `Digidoom-Setup.exe` and launch it. Install the app with your preferences and wire your computer with any ethernet cable to the digidot. Launch the program and wait for the new tab to open in your browser.
+Download the `Digidoom-Setup.exe` in releases and launch it. Install the app with your preferences and wire your computer with any ethernet cable to the digidot. Launch the program and wait for the new tab to open in your browser.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -13,4 +13,4 @@ Digidoom est un logiciel qui vous permet de retrouver rapidement et sans effort 
 
 ## Installation
 
-Téléchargez `Digidoom-Setup.exe` et lancez-le. Installez l'application selon vos préférences, puis connectez votre ordinateur au digidot à l'aide de n'importe quel câble Ethernet. Lancez le programme et attendez qu'un nouvel onglet s'ouvre dans votre navigateur.
+Téléchargez `Digidoom-Setup.exe` dans les "releases" et lancez-le. Installez l'application selon vos préférences, puis connectez votre ordinateur au digidot à l'aide de n'importe quel câble Ethernet. Lancez le programme et attendez qu'un nouvel onglet s'ouvre dans votre navigateur.
